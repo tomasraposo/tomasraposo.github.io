@@ -1,1 +1,7 @@
 remote_theme: aterenin/minima-reboot
+
+
+header_pages:
+- about.md
+- posts.md
+- github.md
